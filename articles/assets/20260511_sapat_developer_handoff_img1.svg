@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Sapat developer handoff workflow</title>
+  <desc id="desc">A five step workflow from recording to transcript to review to handoff packet to engineering issue.</desc>
+  <rect width="1200" height="520" fill="#f7fafc"/>
+  <rect x="58" y="72" width="200" height="132" rx="18" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
+  <rect x="294" y="72" width="200" height="132" rx="18" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
+  <rect x="530" y="72" width="200" height="132" rx="18" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
+  <rect x="766" y="72" width="200" height="132" rx="18" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
+  <rect x="1002" y="72" width="140" height="132" rx="18" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
+  <text x="158" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Recording</text>
+  <text x="158" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#374151">QA, demo, or</text>
+  <text x="158" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#374151">meeting video</text>
+  <text x="394" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Sapat</text>
+  <text x="394" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#374151">ffmpeg plus</text>
+  <text x="394" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#374151">transcription API</text>
+  <text x="630" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Transcript</text>
+  <text x="630" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#374151">Searchable text</text>
+  <text x="630" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#374151">next to video</text>
+  <text x="866" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Review</text>
+  <text x="866" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#374151">Fix terms and</text>
+  <text x="866" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#374151">remove secrets</text>
+  <text x="1072" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Issue</text>
+  <text x="1072" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#374151">Ready for</text>
+  <text x="1072" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#374151">engineering</text>
+  <path d="M266 138 H286" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M286 138 L276 130 M286 138 L276 146" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M502 138 H522" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M522 138 L512 130 M522 138 L512 146" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M738 138 H758" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M758 138 L748 130 M758 138 L748 146" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M974 138 H994" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M994 138 L984 130 M994 138 L984 146" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <rect x="166" y="300" width="868" height="122" rx="18" fill="#e0f2fe" stroke="#0369a1" stroke-width="3"/>
+  <text x="600" y="344" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0f172a">Handoff packet</text>
+  <text x="600" y="384" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#0f172a">Recording + transcript + reproduction steps + expected behavior + actual behavior + timeline + open questions</text>
+  <path d="M630 214 V292" stroke="#0369a1" stroke-width="5" stroke-linecap="round"/>
+  <path d="M630 292 L622 282 M630 292 L638 282" stroke="#0369a1" stroke-width="5" stroke-linecap="round"/>
+</svg>
